@@ -5,7 +5,8 @@
 
 ### Profile views counter 👁️‍🗨️
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanthm2410)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prashanthm2410&label=Profile%20views&color=0e75b6&style=flat" alt="Prashanth M" /> </p>
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
 [graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
