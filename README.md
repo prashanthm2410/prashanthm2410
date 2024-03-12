@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthm2410&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthm2410" /> </p>
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+
+
+[reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
+[graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
 
 - 📫 How to reach me **prashanthm2410@gmail.com**
 
