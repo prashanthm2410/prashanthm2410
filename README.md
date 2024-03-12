@@ -1,10 +1,4 @@
 ### Hi there 👋
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19400
-Fork on GitHub
-5771
 
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
 <h3 align="center">A passionate software developer from India</h3>
