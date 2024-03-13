@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A dedicated CS student with a passion for software development, striving to excel in their field.</h3>
 
 ### Profile views counter 👁️‍🗨️
 
