@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
-<h3 align="center">A Pre-Final Year Student who is interested in understanding data and building end to end websites💻that incorporates the analyzed data.I am also interested in Data Analysis and Machine Learning🤖.</h3>
+<h3 align="center">A Final Year Student who is interested in understanding data and building end to end websites💻that incorporates the analyzed data.I am also interested in Data Analysis and Machine Learning🤖.</h3>
 
 ### Profile views counter 👁️‍🗨️
 
